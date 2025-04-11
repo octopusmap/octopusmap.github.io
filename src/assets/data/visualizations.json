@@ -1,0 +1,250 @@
+{
+  "categories": [
+    {
+      "name": "Meta data",
+      "subCategories": [
+        {
+          "name": "Tags",
+          "dimensions": [
+            { "name": "Political", "techniques": ["Political Cartoon", "Satire", "Propaganda"] },
+            { "name": "Economic", "techniques": ["Monopoly", "Market Control", "Trade Routes"] },
+            { "name": "Social", "techniques": ["Public Opinion", "Social Impact", "Cultural Influence"] }
+          ]
+        },
+        {
+          "name": "Theme(s)",
+          "dimensions": [
+            { "name": "Power", "techniques": ["Dominance", "Control", "Influence"] },
+            { "name": "Control", "techniques": ["Territorial", "Economic", "Political"] },
+            { "name": "Influence", "techniques": ["Cultural", "Social", "Economic"] }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Octpus",
+      "subCategories": [
+        {
+          "name": "Octopus Lable",
+          "dimensions": [
+            { "name": "Standard Oil", "techniques": ["Monopoly", "Economic Power", "Market Control"] },
+            { "name": "British Empire", "techniques": ["Colonial Power", "Global Influence", "Territorial Control"] },
+            { "name": "American Expansion", "techniques": ["Imperialism", "Economic Growth", "Political Influence"] }
+          ]
+        },
+        {
+          "name": "Tentacle Label",
+          "dimensions": [
+            { "name": "Railroads", "techniques": ["Transportation", "Infrastructure", "Economic Control"] },
+            { "name": "Shipping", "techniques": ["Trade", "Maritime", "Global Reach"] },
+            { "name": "Industry", "techniques": ["Manufacturing", "Production", "Economic Power"] }
+          ]
+        },
+        {
+          "name": "Octopus Luminosity",
+          "dimensions": [
+            { "name": "High", "techniques": ["Bold", "Prominent", "Dominant"] },
+            { "name": "Medium", "techniques": ["Balanced", "Moderate", "Neutral"] },
+            { "name": "Low", "techniques": ["Subtle", "Background", "Secondary"] }
+          ]
+        },
+        {
+          "name": "Octopus Saturation",
+          "dimensions": [
+            { "name": "Full", "techniques": ["Intense", "Strong", "Vibrant"] },
+            { "name": "Partial", "techniques": ["Moderate", "Balanced", "Mixed"] },
+            { "name": "Minimal", "techniques": ["Light", "Subtle", "Faint"] }
+          ]
+        },
+        {
+          "name": "Octopus Color Name",
+          "dimensions": [
+            { "name": "Black", "techniques": ["Dark", "Ominous", "Powerful"] },
+            { "name": "Red", "techniques": ["Aggressive", "Dangerous", "Threatening"] },
+            { "name": "Blue", "techniques": ["Corporate", "Professional", "Established"] }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Metaphore",
+      "subCategories": [
+        {
+          "name": "Metaphorical Operation - Semantic Sign (Signifier - Signified)",
+          "dimensions": [
+            { "name": "Octopus as Power", "techniques": ["Monopoly", "Control", "Dominance"] },
+            { "name": "Tentacles as Control", "techniques": ["Reach", "Influence", "Grasp"] },
+            { "name": "Grasp as Influence", "techniques": ["Hold", "Control", "Power"] }
+          ]
+        },
+        {
+          "name": "Metonymy",
+          "dimensions": [
+            { "name": "Part for Whole", "techniques": ["Tentacle for Power", "Arm for Control", "Grasp for Influence"] },
+            { "name": "Whole for Part", "techniques": ["Octopus for Monopoly", "Body for Control", "Form for Power"] },
+            { "name": "Container for Content", "techniques": ["Body for Power", "Form for Control", "Shape for Influence"] }
+          ]
+        },
+        {
+          "name": "Metaphorical Operation - Enargia (Spectrum)/vividness",
+          "dimensions": [
+            { "name": "High Vividness", "techniques": ["Detailed", "Realistic", "Lifelike"] },
+            { "name": "Medium Vividness", "techniques": ["Balanced", "Moderate", "Standard"] },
+            { "name": "Low Vividness", "techniques": ["Simple", "Abstract", "Minimal"] }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Text&image",
+      "subCategories": [
+        {
+          "name": "Text - Components",
+          "dimensions": [
+            { "name": "Title", "techniques": ["Headline", "Caption", "Label"] },
+            { "name": "Caption", "techniques": ["Description", "Explanation", "Context"] },
+            { "name": "Label", "techniques": ["Identification", "Marking", "Tagging"] }
+          ]
+        },
+        {
+          "name": "Format",
+          "dimensions": [
+            { "name": "Newspaper", "techniques": ["Print", "Publication", "Article"] },
+            { "name": "Poster", "techniques": ["Advertisement", "Propaganda", "Announcement"] },
+            { "name": "Map", "techniques": ["Geographic", "Territorial", "Spatial"] }
+          ]
+        },
+        {
+          "name": "Circulation Area(s)",
+          "dimensions": [
+            { "name": "National", "techniques": ["Country-wide", "Domestic", "Local"] },
+            { "name": "Regional", "techniques": ["Area-specific", "Localized", "Targeted"] },
+            { "name": "Local", "techniques": ["Community", "Neighborhood", "Specific"] }
+          ]
+        },
+        {
+          "name": "Projection - Type",
+          "dimensions": [
+            { "name": "Mercator", "techniques": ["Standard", "Traditional", "Common"] },
+            { "name": "Peters", "techniques": ["Equal-area", "Alternative", "Modern"] },
+            { "name": "Robinson", "techniques": ["Balanced", "Compromise", "General"] }
+          ]
+        },
+        {
+          "name": "Naming - Language",
+          "dimensions": [
+            { "name": "English", "techniques": ["Standard", "Common", "Widely Used"] },
+            { "name": "French", "techniques": ["Alternative", "Secondary", "Additional"] },
+            { "name": "German", "techniques": ["Specialized", "Technical", "Specific"] }
+          ]
+        },
+        {
+          "name": "Naming - Geographic Types",
+          "dimensions": [
+            { "name": "Countries", "techniques": ["Nation", "State", "Territory"] },
+            { "name": "Cities", "techniques": ["Urban", "Metropolitan", "Municipal"] },
+            { "name": "Regions", "techniques": ["Area", "Zone", "District"] }
+          ]
+        },
+        {
+          "name": "Naming - Distinct Language",
+          "dimensions": [
+            { "name": "Yes", "techniques": ["Unique", "Specific", "Distinctive"] },
+            { "name": "No", "techniques": ["Standard", "Common", "Generic"] }
+          ]
+        },
+        {
+          "name": "Projection - Distortion Type",
+          "dimensions": [
+            { "name": "Area", "techniques": ["Size", "Scale", "Proportion"] },
+            { "name": "Shape", "techniques": ["Form", "Outline", "Contour"] },
+            { "name": "Distance", "techniques": ["Space", "Length", "Range"] }
+          ]
+        },
+        {
+          "name": "Scale",
+          "dimensions": [
+            { "name": "Large", "techniques": ["Big", "Prominent", "Dominant"] },
+            { "name": "Medium", "techniques": ["Moderate", "Balanced", "Standard"] },
+            { "name": "Small", "techniques": ["Compact", "Minimal", "Subtle"] }
+          ]
+        },
+        {
+          "name": "Grid",
+          "dimensions": [
+            { "name": "Present", "techniques": ["Structured", "Organized", "Systematic"] },
+            { "name": "Absent", "techniques": ["Free-form", "Organic", "Natural"] }
+          ]
+        },
+        {
+          "name": "Legend",
+          "dimensions": [
+            { "name": "Present", "techniques": ["Explained", "Documented", "Clarified"] },
+            { "name": "Absent", "techniques": ["Implicit", "Assumed", "Understood"] }
+          ]
+        },
+        {
+          "name": "Achromatic/Chromatic",
+          "dimensions": [
+            { "name": "Achromatic", "techniques": ["Black and White", "Grayscale", "Monochrome"] },
+            { "name": "Chromatic", "techniques": ["Color", "Hue", "Tone"] }
+          ]
+        },
+        {
+          "name": "Contrast - Form",
+          "dimensions": [
+            { "name": "High", "techniques": ["Strong", "Bold", "Dramatic"] },
+            { "name": "Medium", "techniques": ["Moderate", "Balanced", "Standard"] },
+            { "name": "Low", "techniques": ["Subtle", "Soft", "Gentle"] }
+          ]
+        },
+        {
+          "name": "Contrast - Content",
+          "dimensions": [
+            { "name": "High", "techniques": ["Dramatic", "Intense", "Powerful"] },
+            { "name": "Medium", "techniques": ["Moderate", "Balanced", "Standard"] },
+            { "name": "Low", "techniques": ["Subtle", "Soft", "Gentle"] }
+          ]
+        },
+        {
+          "name": "Rhetorical Style - Shading",
+          "dimensions": [
+            { "name": "Heavy", "techniques": ["Dark", "Bold", "Strong"] },
+            { "name": "Light", "techniques": ["Soft", "Gentle", "Subtle"] },
+            { "name": "None", "techniques": ["Clear", "Plain", "Simple"] }
+          ]
+        },
+        {
+          "name": "Rhetorical Style - Personification Level",
+          "dimensions": [
+            { "name": "High", "techniques": ["Human-like", "Anthropomorphic", "Personified"] },
+            { "name": "Medium", "techniques": ["Partial", "Moderate", "Balanced"] },
+            { "name": "Low", "techniques": ["Minimal", "Subtle", "Basic"] }
+          ]
+        },
+        {
+          "name": "Rhetorical Style - Facial Expressions",
+          "dimensions": [
+            { "name": "Present", "techniques": ["Expressive", "Emotional", "Animated"] },
+            { "name": "Absent", "techniques": ["Neutral", "Plain", "Simple"] }
+          ]
+        },
+        {
+          "name": "Text - Ornament",
+          "dimensions": [
+            { "name": "Present", "techniques": ["Decorative", "Embellished", "Ornate"] },
+            { "name": "Absent", "techniques": ["Plain", "Simple", "Basic"] }
+          ]
+        },
+        {
+          "name": "Text - The Largest Size",
+          "dimensions": [
+            { "name": "Large", "techniques": ["Prominent", "Dominant", "Bold"] },
+            { "name": "Medium", "techniques": ["Standard", "Normal", "Regular"] },
+            { "name": "Small", "techniques": ["Subtle", "Secondary", "Minor"] }
+          ]
+        }
+      ]
+    }
+  ]
+} 

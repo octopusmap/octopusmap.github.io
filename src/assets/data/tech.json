@@ -1,0 +1,1204 @@
+[
+    {
+        "name": "The oppressor is at the top",
+        "image": "The oppressor is at the top.png",
+        "firstclass": "Conceptual Metaphor",
+        "secondclass": "Orientational Metaphor",
+        "thirdclass": "",
+        "sum": 40.0,
+        "description": "The oppressor is at the top is one of the main orientational metaphors in octopus maps. These maps create the metaphorical meaning for the visual space.",
+        "case": [
+            {
+                "casename": "Recognize the danger! Vote for  the Austrian People’s Party",
+                "casetext": "The map Recognize\nthe danger! Choose the Austrian People’s Party  places the octopus (invader) in the upper right corner, conveying a sense of dominance and looming threat.",
+                "caseimg": "Recognize the danger Vote for the Austrian People_s Party.png"
+            },
+            {
+                "casename": "Serio-Comic War Map For The Year 1877. Revised Edition",
+                "casetext": "The invader depicted as the ocotpus is placed on the upper right of the image, representing a position of oppression.",
+                "caseimg": "Serio-Comic War Map For The Year 1877_ Revised Edition_.png"
+            },
+            {
+                "casename": "The Empire of Prey or the Hapsburg Octopus",
+                "casetext": "The octopus is placed at the top of the image, turning the position of the top as a place of oppression.",
+                "caseimg": "The Empire of Prey or the Hapsburg Octopus.jpg"
+            }
+        ]
+    },
+    {
+        "name": "The conflict is at the center",
+        "image": "The conflict is at the center.png",
+        "firstclass": "Conceptual Metaphor",
+        "secondclass": "Orientational Metaphor",
+        "thirdclass": "",
+        "sum": 27.0,
+        "description": "The orientational metaphor, conflict is at the center, turn the meaning of central space into the core conflict.",
+        "case": [
+            {
+                "casename": "Octopus in Europe, Humorous War Map",
+                "casetext": "The tentacle encircling Poland is placed at the center of the map, representing the metaphor, \"the conflict is at the center.\"",
+                "caseimg": "Octopus in Europe, Humorous War Map_1.png"
+            },
+            {
+                "casename": "John Bull and His Friends. A Serio-Comic Map of Europe",
+                "casetext": "The tentacle encircling Poland is at the center.",
+                "caseimg": "John Bull and His Friends_ A Serio-Comic Map of Europe_1.png"
+            },
+            {
+                "casename": "Octopus Treading",
+                "casetext": "The tentacle cencircling the warship from Russia is at the visual center.",
+                "caseimg": "Octopus Treading_1.png"
+            }
+        ]
+    },
+    {
+        "name": "The victim is at the periphery",
+        "image": "The victim is at the periphery.png",
+        "firstclass": "Conceptual Metaphor",
+        "secondclass": "Orientational Metaphor",
+        "thirdclass": "",
+        "sum": 14.0,
+        "description": "These cases put the victim at the periphery, turn the periphey as a metaphorical position for the victim.",
+        "case": [
+            {
+                "casename": "A Humorous Diplomatic Atlas of Europe and Asia",
+                "casetext": "Northeastern China is victim of Russia, placed at the periphery of the map.",
+                "caseimg": "A Humorous Diplomatic Atlas of Europe and Asia_1.png"
+            },
+            {
+                "casename": "Fight against War and Racism",
+                "casetext": "The victim, Ukraine is placed at the periphery.",
+                "caseimg": "Fight against War and Racism_1.png"
+            },
+            {
+                "casename": "The British Empire Plunder History Map",
+                "casetext": "The victims of British Empire at the time are placed at the periphery, for example, the eastern China, Indonesia, and New Zealand.",
+                "caseimg": "The British Empire Plunder History Map_1.png"
+            }
+        ]
+    },
+    {
+        "name": "The justice is at the periphery",
+        "image": "The justice is at the periphery.png",
+        "firstclass": "Conceptual Metaphor",
+        "secondclass": "Orientational Metaphor",
+        "thirdclass": "",
+        "sum": 4.0,
+        "description": "These images turn the peripheral space as the place for justice.",
+        "case": [
+            {
+                "casename": "Dessin de presse standard oil",
+                "casetext": "The justice of the white house, capitol, and the State Houses are placed at the periphery.",
+                "caseimg": "Dessin de presse standard oil_2.png"
+            },
+            {
+                "casename": "Eyes on Formosa",
+                "casetext": "The U.S. plays as the role of justice is placed at the periphery.",
+                "caseimg": "Eyes on Formosa_1.png"
+            },
+            {
+                "casename": "Allies Loosen Grip of Nazi Octopus ",
+                "casetext": "The allies as the justice  is placed at the periphery of the octopus maps.",
+                "caseimg": "Allies Loosen Grip of Nazi Octopus _1.png"
+            }
+        ]
+    },
+    {
+        "name": "The invader is the octopus",
+        "image": "The invader is the octopus.png",
+        "firstclass": "Conceptual Metaphor",
+        "secondclass": "Ontological Metaphor",
+        "thirdclass": "",
+        "sum": 32.0,
+        "description": "The invaders are depicted as the octopus in the ontological metaphor, which turns the abstract concept to the sensible entity.",
+        "case": [
+            {
+                "casename": "Revenge (1886 Poster)",
+                "casetext": "The octopus represents Prussia, the invader in Europe.",
+                "caseimg": "Revenge (1886 Poster).png"
+            },
+            {
+                "casename": "The Real Europe Without Make-up",
+                "casetext": "The octopus represents Prussia, depicted as an invader to Russia.",
+                "caseimg": "The Real Europe Without Make-up.png"
+            },
+            {
+                "casename": "The Empire of Prey or the Hapsburg Octopus",
+                "casetext": "The invader, Hapsburg, is depicted as an octopus.",
+                "caseimg": "The Empire of Prey or the Hapsburg Octopus.jpg"
+            }
+        ]
+    },
+    {
+        "name": "The hostile ideology is the octopus",
+        "image": "The hostile ideology is the octopus.png",
+        "firstclass": "Conceptual Metaphor",
+        "secondclass": "Ontological Metaphor",
+        "thirdclass": "",
+        "sum": 22.0,
+        "description": "These maps use the octopus to represent the hostile ideology.",
+        "case": [
+            {
+                "casename": "Political Aspects of Mormonism",
+                "casetext": "The ideology of mormonism is depicted as the octopus.",
+                "caseimg": "Political Aspects of Mormonism.png"
+            },
+            {
+                "casename": "Read La Bastille, the Illustrated Weekly Anti-Masonic Newspaper",
+                "casetext": "The freemansory ideology is depicted as an octopus.",
+                "caseimg": "Read La Bastille, the Illustrated Weekly Anti-Masonic Newspaper.png"
+            },
+            {
+                "casename": "Churchill as an Octopus",
+                "casetext": "The ideology of zionism is depicted as the octopus.",
+                "caseimg": "Churchill as an Octopus.png"
+            }
+        ]
+    },
+    {
+        "name": "The financial exploiter is the octopus",
+        "image": "The financial exploiter is the octopus.png",
+        "firstclass": "Conceptual Metaphor",
+        "secondclass": "Ontological Metaphor",
+        "thirdclass": "",
+        "sum": 14.0,
+        "description": "The financial exploiters are the octopus.",
+        "case": [
+            {
+                "casename": "The English Octopus",
+                "casetext": "The Rothchild, the representative financial oligrachy, is depicted as an evil octopus.",
+                "caseimg": "The English Octopus.png"
+            },
+            {
+                "casename": "The Great Oil Octopus",
+                "casetext": "The Standard Oil Trust, the largest financial orligarchy at the time, is depicted as an octopus.",
+                "caseimg": "The Great Oil Octopus.jpg"
+            },
+            {
+                "casename": "Landlordism Causes Unemployment",
+                "casetext": "The landlord is depicted as the octopus in this map.",
+                "caseimg": "Landlordism Causes Unemployment.png"
+            }
+        ]
+    },
+    {
+        "name": "The ways of oppression are the tentacles",
+        "image": "The ways of oppression are the tentacles.png",
+        "firstclass": "Conceptual Metaphor",
+        "secondclass": "Ontological Metaphor",
+        "thirdclass": "",
+        "sum": 47.0,
+        "description": "Tentacles are used to represent specific ways of oppressions, for example, using different means to annex the resources from the oppressed.",
+        "case": [
+            {
+                "casename": "The octopus of Humanity's two hundred families",
+                "casetext": "Each tentacle represents a way of oppression in this anti-semetism map.",
+                "caseimg": "The octopus of Humanity_s two hundred families.png"
+            },
+            {
+                "casename": "The Dollar Octopus",
+                "casetext": "Each tentacle represents one annexation of the United States in the history.",
+                "caseimg": "The Dollar Octopus.png"
+            },
+            {
+                "casename": "Pax Britannica",
+                "casetext": "The tentacle represents the annexation of the world.",
+                "caseimg": "Pax Britannica.png"
+            }
+        ]
+    },
+    {
+        "name": "The oppression is the sucker",
+        "image": "The oppression is the sucker.png",
+        "firstclass": "Conceptual Metaphor",
+        "secondclass": "Ontological Metaphor",
+        "thirdclass": "",
+        "sum": 50.0,
+        "description": "The suckers are often depicted in details, implying the oppression nature of the octopus.",
+        "case": [
+            {
+                "casename": "The British Octopus - England in the North Indian Ocean",
+                "casetext": "The suckers on the tentacle represent the oppression feature of the British ocotpus.",
+                "caseimg": "The British Octopus - England in the North Indian Ocean.png"
+            },
+            {
+                "casename": "Before the Barbarians. The United States and the War.",
+                "casetext": "The suckers of the American octopus represents the oppression feature of the octopus.",
+                "caseimg": "Before the Barbarians_ The United States and the War_.jpg"
+            },
+            {
+                "casename": "Recognize the danger! Vote for the Austrian People's Party",
+                "casetext": "The suckers on the octopus denote the oppression feature of the Soviet octopus.",
+                "caseimg": "Recognize the danger Vote for the Austrian People_s Party.png"
+            }
+        ]
+    },
+    {
+        "name": "The successful resistance creates the wound on the tentacles",
+        "image": "The successful resistance creates the wound on the tentacles.png",
+        "firstclass": "Conceptual Metaphor",
+        "secondclass": "Ontological Metaphor",
+        "thirdclass": "",
+        "sum": 10.0,
+        "description": "In these cases, the wounds on the tentacles represent the successful resistance from the oppressed.",
+        "case": [
+            {
+                "casename": "Have Faith - The Systematic Amputations Are Continuing",
+                "casetext": "The wound of the octopus means the defeated war of British, representing the successful resistance in the mean time.",
+                "caseimg": "Have Faith - The Systematic Amputations Are Continuing_1.png"
+            },
+            {
+                "casename": "All the countries of Europe / have defeated communism / FRANCE REMAINS THE ONLY ONE THREATENED",
+                "casetext": "The wound of the octopus represents the successful resistance of the invades from the octopus.",
+                "caseimg": "All the countries of Europe _ have defeated communism _ FRANCE REMAINS THE ONLY ONE THREATENED_2.png"
+            },
+            {
+                "casename": "The German Octopus!",
+                "casetext": "The cut tentacles and the wounds represent the resistance to the German octopus.",
+                "caseimg": "The German Octopus_1.png"
+            }
+        ]
+    },
+    {
+        "name": "To oppress is to entangle",
+        "image": "To oppress is to entangle.png",
+        "firstclass": "Conceptual Metaphor",
+        "secondclass": "Structural Metaphor",
+        "thirdclass": "",
+        "sum": 16.0,
+        "description": "The structural metaphor, \"to entangle\" represent the structure of the octopus maps. To oppress is to entangle the oppressed.",
+        "case": [
+            {
+                "casename": "War Map of Europe with Russian Octopus",
+                "casetext": "The tentacle entangling Turkey represent the oppression toward Turkey.",
+                "caseimg": "War Map of Europe with Russian Octopus.jpg"
+            },
+            {
+                "casename": "Office of War Information flyer No.107",
+                "casetext": "The tentacles entangle the land of Taiwan, representing the act of oppression.",
+                "caseimg": "Office of War Information flyer No_107.png"
+            },
+            {
+                "casename": "The Streetcar Octopus",
+                "casetext": "A tentacle entangles the western part of the map, representing the oppression from the Streetcar company.",
+                "caseimg": "The Streetcar Octopus.png"
+            }
+        ]
+    },
+    {
+        "name": "To eliminate an area is to encircle it",
+        "image": "To eliminate an area is to encircle it.png",
+        "firstclass": "Conceptual Metaphor",
+        "secondclass": "Structural Metaphor",
+        "thirdclass": "",
+        "sum": 4.0,
+        "description": "While the octopus encircles the oppressed firmly, it means the oppressed are eliminated.",
+        "case": [
+            {
+                "casename": "John Bull and His Friend",
+                "casetext": "The tentacle encircling Poland represents the fully occupation of the country.",
+                "caseimg": "John Bull and His Friends_1.png"
+            },
+            {
+                "casename": "Cover of How Communism Works",
+                "casetext": "The tentacle of the communism encircling Spain, representing the communism has fully occupied Spain.",
+                "caseimg": "Cover of How Communism Works_1.png"
+            },
+            {
+                "casename": "Serio-Comic War Map For The Year 1877. Revised Edition.",
+                "casetext": "The tentacle encircling Poland represents the fully occupation and the elimination of Poland.",
+                "caseimg": "Serio-Comic War Map For The Year 1877_ Revised Edition__1.png"
+            }
+        ]
+    },
+    {
+        "name": "Thematic contrast",
+        "image": "Thematic contrast.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Universal Strategies",
+        "thirdclass": "Contrast",
+        "sum": 158.0,
+        "description": "Given that contrast is an important rhetorical strategy, the thematic contrast is juxtaposition of the two extremes regarding the semantic meaning. For example, the contrast between strong and weak, the invaders and the invaded.",
+        "case": [
+            {
+                "casename": "Read La Bastille, the Illustrated Weekly Anti-Masonic Newspaper",
+                "casetext": "The contrasts include the contrast of animal and human and the evil and the justice.",
+                "caseimg": "Read La Bastille, the Illustrated Weekly Anti-Masonic Newspaper_1.png"
+            },
+            {
+                "casename": "Dessin de presse standard oil",
+                "casetext": "The contrasts include the contrast between animal and human, the invader and being invaded, and the dynamic and the passive architecture.",
+                "caseimg": "Dessin de presse standard oil_1.png"
+            },
+            {
+                "casename": "A Humorous Diplomatic Atlas of Europe and Asia",
+                "casetext": "The contrasts include the contrast between the death and the lived, the animal and the human, the strong and the weak.",
+                "caseimg": "A Humorous Diplomatic Atlas of Europe and Asia_2.png"
+            }
+        ]
+    },
+    {
+        "name": "Stylistic contrast",
+        "image": "Stylistic contrast.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Universal Strategies",
+        "thirdclass": "Contrast",
+        "sum": 210.0,
+        "description": "The stylistic contrast represents the two extremes regarding style. For example, black and white, big and small.",
+        "case": [
+            {
+                "casename": "Serio-Comic War Map For The Year 1877. Revised Edition.",
+                "casetext": "The stylistic contrasts in the map include: the dark and the bright, the big and the small, and the high saturation and the low saturation.",
+                "caseimg": "Serio-Comic War Map For The Year 1877_ Revised Edition__2.png"
+            },
+            {
+                "casename": "John Bull and His Friends",
+                "casetext": "The stylistic contrasts include the big and the small, the high saturation and the low saturation, and the more and the less.",
+                "caseimg": "John Bull and His Friends_2.png"
+            },
+            {
+                "casename": "The German Octopus : Hitler Bids for World Power",
+                "casetext": "The stylistic contrasts include the bright and dark, the high saturation and the low saturation, the figurative and abstract, and the caricature and technical.",
+                "caseimg": "The German Octopus _ Hitler Bids for World Power_1.png"
+            }
+        ]
+    },
+    {
+        "name": "Display the area",
+        "image": "Display the area.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Universal Strategies",
+        "thirdclass": "Display",
+        "sum": 33.0,
+        "description": "Choosing certain areas to display means to frame the focus point for the map.",
+        "case": [
+            {
+                "casename": "Landlordism Causes Unemployment",
+                "casetext": "The occupied areas by the landlords are displayed by the tentacle entangling",
+                "caseimg": "Landlordism Causes Unemployment.png"
+            },
+            {
+                "casename": "Tako no Asirai",
+                "casetext": "The areas of Jiaodong Peninsula and Liaodong Peninsula are displayed to support the persuasive meaning of the victory of Japanese navy.",
+                "caseimg": "Tako no Asirai.png"
+            },
+            {
+                "casename": "Political Aspects of Mormonism",
+                "casetext": "The mormonism areas are displayed.",
+                "caseimg": "Political Aspects of Mormonism.png"
+            }
+        ]
+    },
+    {
+        "name": "Display the name",
+        "image": "Display the name.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Universal Strategies",
+        "thirdclass": "Display",
+        "sum": 18.0,
+        "description": "Displaying name while concealing the other entails the framing effect of the octopus map.",
+        "case": [
+            {
+                "casename": "Revenge (1886 Poster)",
+                "casetext": "Only the name of Russia, Prussia, and France are displayed.",
+                "caseimg": "Revenge (1886 Poster).png"
+            },
+            {
+                "casename": "Fight Agains War and Facism",
+                "casetext": "Only the names about the anti-facism war are displayed. ",
+                "caseimg": "Fight Agains War and Facism.png"
+            },
+            {
+                "casename": "Cover of How Communism Works",
+                "casetext": "Only the name of the main countries are shown.",
+                "caseimg": "Cover of How Communism Works.png"
+            }
+        ]
+    },
+    {
+        "name": "Display the symbol",
+        "image": "Display the symbol.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Universal Strategies",
+        "thirdclass": "Display",
+        "sum": 14.0,
+        "description": "Displaying certain symbols while concealing the others entails the persuasive functions of octopus maps.",
+        "case": [
+            {
+                "casename": "All the countries of Europe / have defeated communism / FRANCE REMAINS THE ONLY ONE THREATENED",
+                "casetext": "The symbol of France is displayed.",
+                "caseimg": "All the countries of Europe _ have defeated communism _ FRANCE REMAINS THE ONLY ONE THREATENED.png"
+            },
+            {
+                "casename": "British Economic League anti-Communist pamphlet",
+                "casetext": "The star symbol is shown to represent the capital of British.",
+                "caseimg": "British Economic League anti-Communist pamphlet.png"
+            },
+            {
+                "casename": "The Octopus of Antwerp and Other Cold War Maps",
+                "casetext": "The isotope symbols are shown to represent different industries on the map.",
+                "caseimg": "The Octopus of Antwerp and Other Cold War Maps.png"
+            }
+        ]
+    },
+    {
+        "name": "Use symbol as metonymy",
+        "image": "Use symbol as metonymy.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Universal Strategies",
+        "thirdclass": "Metonymy",
+        "sum": 22.0,
+        "description": "Metonymy is the abstraction of a concept or idea using more sensible entity. Symbol is a common way of metonymy.",
+        "case": [
+            {
+                "casename": "All the countries of Europe / have defeated communism / FRANCE REMAINS THE ONLY ONE THREATENED",
+                "casetext": "The hammer and sickle are used as metonymy on the octopus' head.",
+                "caseimg": "All the countries of Europe _ have defeated communism _ FRANCE REMAINS THE ONLY ONE THREATENED_1.png"
+            },
+            {
+                "casename": "Churchill as an Octopus",
+                "casetext": "David star is shown to represent the zionism on the octopus.",
+                "caseimg": "Churchill as an Octopus_1.png"
+            },
+            {
+                "casename": "The octopus of Humanity's two hundred families",
+                "casetext": "The top hat symbol is used to represent the Jewish ocotpus.",
+                "caseimg": "The octopus of Humanity_s two hundred families_1.png"
+            }
+        ]
+    },
+    {
+        "name": "Use human form as metonymy",
+        "image": "Use human form as metonymy.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Universal Strategies",
+        "thirdclass": "Metonymy",
+        "sum": 20.0,
+        "description": "Metonymy is the abstraction of a concept or idea using more sensible entity. Using human form as a metonymy is a common way to help understand the reference of the octopus maps.",
+        "case": [
+            {
+                "casename": "The Real Europe Without Make-up",
+                "casetext": "Use the commanders illustration to represent the Prussian octopus.",
+                "caseimg": "The Real Europe Without Make-up_1.png"
+            },
+            {
+                "casename": "Fight Agains War and Facism",
+                "casetext": "Use the face of Hitler to represent the Nazi octopus.",
+                "caseimg": "Fight Agains War and Facism_2.png"
+            },
+            {
+                "casename": "John Bull and His Friends",
+                "casetext": "The portrait of Tzar is the metonymy of Russian octopus.",
+                "caseimg": "John Bull and His Friends_3.png"
+            }
+        ]
+    },
+    {
+        "name": "Use flag as metonymy",
+        "image": "Use flag as metonymy.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Universal Strategies",
+        "thirdclass": "Metonymy",
+        "sum": 11.0,
+        "description": "Metonymy is the abstraction of a concept or idea using more sensible entity. In octopus maps, the flags are often used to represent the ocotpus.",
+        "case": [
+            {
+                "casename": "The World Liberator",
+                "casetext": "The British flag as the metonymy of British octopus.",
+                "caseimg": "The World Liberator_1.png"
+            },
+            {
+                "casename": "Before the Barbarians. The United States and the War.",
+                "casetext": "The American flag is the metonymy of the American octopus.",
+                "caseimg": "Before the Barbarians_ The United States and the War__1.png"
+            },
+            {
+                "casename": "The British Empire Plunder History Map",
+                "casetext": "The British flag is the metonymy of British octopus.",
+                "caseimg": "The British Empire Plunder History Map_2.png"
+            }
+        ]
+    },
+    {
+        "name": "3D globe as map choice",
+        "image": "3D globe as map choice.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Cartographic Strategies",
+        "thirdclass": "Map Choice",
+        "sum": 20.0,
+        "description": "3D globes can create a sense of worldwide view, but could also associate with the display function and only show half of the hemisphere.",
+        "case": [
+            {
+                "casename": "Octopus Albion",
+                "casetext": "The globe with a center of Arabian area is the map choice.",
+                "caseimg": "Octopus Albion.png"
+            },
+            {
+                "casename": "The World Liberator",
+                "casetext": "The globe without clear countries' borders is chosen as the stage of the battle between English octopus and the knight.",
+                "caseimg": "The World Liberator.png"
+            },
+            {
+                "casename": "Churchill as an Octopus",
+                "casetext": "The globe is chosen as the form of map, allowing the tentacles stab into the globe and strengthen the evilness of the octopus.",
+                "caseimg": "Churchill as an Octopus.png"
+            }
+        ]
+    },
+    {
+        "name": "2D map as map choice",
+        "image": "2D map as map choice.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Cartographic Strategies",
+        "thirdclass": "Map Choice",
+        "sum": 70.0,
+        "description": "2D maps is a traditional choice of map making, always with distortion geographical information to some extent.",
+        "case": [
+            {
+                "casename": "The Streetcar Octopus",
+                "casetext": "The 2D street map is chosen, allowing the octopus to entangle from the top of the 2D panel.",
+                "caseimg": "The Streetcar Octopus.png"
+            },
+            {
+                "casename": "Political Aspects of Mormonism",
+                "casetext": "The 2D American map is shown to give a global perspective to the American, indicating the location of Mormoinism and providing the foundation for the persuasion.",
+                "caseimg": "Political Aspects of Mormonism.png"
+            },
+            {
+                "casename": "Read La Bastille, the Illustrated Weekly Anti-Masonic Newspaper",
+                "casetext": "The 2D European map is shown as the ground of the octopus.",
+                "caseimg": "Read La Bastille, the Illustrated Weekly Anti-Masonic Newspaper.png"
+            }
+        ]
+    },
+    {
+        "name": "Distortion of area size",
+        "image": "Distortion of area size.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Cartographic Strategies",
+        "thirdclass": "Distortion",
+        "sum": 26.0,
+        "description": "Distorting the area size is commonly seen in persuasive cartography. Typically, showing the area size with different accuracy and size could impact the perception to certain areas.",
+        "case": [
+            {
+                "casename": "John Bull and His Friends",
+                "casetext": "Russia is much smaller than its actual area size, even in the mini map at the upper right edge.",
+                "caseimg": "John Bull and His Friends.png"
+            },
+            {
+                "casename": "A Humorous Diplomatic Atlas of Europe and Asia",
+                "casetext": "While most of the European countries are smaller than in a standardized map, Japan's area size is enlarged.",
+                "caseimg": "A Humorous Diplomatic Atlas of Europe and Asia.png"
+            },
+            {
+                "casename": "The German Octopus!",
+                "casetext": "The area of Southern Europe, including Italy, is enlarged.",
+                "caseimg": "The German Octopus.png"
+            }
+        ]
+    },
+    {
+        "name": "Distortion of direction",
+        "image": "Distortion of direction.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Cartographic Strategies",
+        "thirdclass": "Distortion",
+        "sum": 3.0,
+        "description": "Distortion of certain directions changes the spatial relationship between the two places.",
+        "case": [
+            {
+                "casename": "Eyes on Formosa",
+                "casetext": "The direction relationship between China, Formosa (Taiwan) and the United States are distorted according to the need for composition.",
+                "caseimg": "Eyes on Formosa.png"
+            },
+            {
+                "casename": "City map : Osaka.",
+                "casetext": "The directions of each station on the road map are distorted to align with the grid on the map.",
+                "caseimg": "City map _ Osaka_.png"
+            },
+            {
+                "casename": "Havaiʻi (Raʻiātea) Centered Map with Octopus Motif: “Vikings of the Sunrise”",
+                "casetext": "The direction relationship between \"Austral\" (Australia) and \"New Zealand\" is distorted to meet the needs of the star tentacles (New Zealand should be on the east of Australia).",
+                "caseimg": "Havaiʻi (Raʻiātea) Centered Map with Octopus Motif_ “Vikings of the Sunrise”.png"
+            }
+        ]
+    },
+    {
+        "name": "Distortion of distance",
+        "image": "Distortion of distance.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Cartographic Strategies",
+        "thirdclass": "Distortion",
+        "sum": 20.0,
+        "description": "The distance between two places could be distorted.",
+        "case": [
+            {
+                "casename": "Slash the Red Tentacles Smothering Asia",
+                "casetext": "The distance between the United States and China is dramatically shortened to reinforce the sense that the threat is close.",
+                "caseimg": "Slash the Red Tentacles Smothering Asia.png"
+            },
+            {
+                "casename": "Serio-Comic War Map For The Year 1877. Revised Edition.",
+                "casetext": "The distance between St. Petersburg and Moscow is distorted to meet the need to depict the two eyes.",
+                "caseimg": "Serio-Comic War Map For The Year 1877_ Revised Edition_.png"
+            },
+            {
+                "casename": "The Russian octopus spreads across the map of Europe",
+                "casetext": "The distance between St. Petersburg and Moscow is distorted to meet the need to depict the two eyes.",
+                "caseimg": "The Russian octopus spreads across the map of Europe.png"
+            }
+        ]
+    },
+    {
+        "name": "Distortion of angle",
+        "image": "Distortion of angle.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Cartographic Strategies",
+        "thirdclass": "Distortion",
+        "sum": 13.0,
+        "description": "Distorting the angle of certain areas could be found in the maps.",
+        "case": [
+            {
+                "casename": "Humorous war map",
+                "casetext": "The angle of British is distorted towards Russia.",
+                "caseimg": "Humorous war map.png"
+            },
+            {
+                "casename": "Serio-Comic War Map For The Year 1877. Revised Edition.",
+                "casetext": "The angle of British is distorted towards Russia.",
+                "caseimg": "Serio-Comic War Map For The Year 1877_ Revised Edition_.png"
+            },
+            {
+                "casename": "The Real Europe Without Make-up",
+                "casetext": "The angle of British is distorted away from Russia and closer to vertical.",
+                "caseimg": "The Real Europe Without Make-up.png"
+            }
+        ]
+    },
+    {
+        "name": "Color choice of red in map",
+        "image": "Color choice of red in map.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Cartographic Strategies",
+        "thirdclass": "Color Choice",
+        "sum": 7.0,
+        "description": "Red color on the map denotes special meanings, entailing the sense of \"threat.\"",
+        "case": [
+            {
+                "casename": "Recognize the danger! Vote for the Austrian People's Party",
+                "casetext": "The red represents the blood and the status of being invaded.",
+                "caseimg": "Recognize the danger Vote for the Austrian People_s Party.png"
+            },
+            {
+                "casename": "Allies Loosen Grip of Nazi Octopus ",
+                "casetext": "The red color represents the occupied areas.",
+                "caseimg": "Allies Loosen Grip of Nazi Octopus .png"
+            },
+            {
+                "casename": "War is the National Industry of Prussia",
+                "casetext": "The red color represents the occupied areas.",
+                "caseimg": "War is the National Industry of Prussia.png"
+            }
+        ]
+    },
+    {
+        "name": "Color choice of black in map",
+        "image": "Color choice of black in map.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Cartographic Strategies",
+        "thirdclass": "Color Choice",
+        "sum": 7.0,
+        "description": "Black color in the map can imply a lower hierarchy on the map, denoting mostly the fallen countries on the map.",
+        "case": [
+            {
+                "casename": "Occupied Palestine",
+                "casetext": "The black color depicts the Israel area, denoting the meaning of \"occupied.\"",
+                "caseimg": "Occupied Palestine.png"
+            },
+            {
+                "casename": "The Indies Must Be Free! Work and Fight For It!",
+                "casetext": "The black areas are the colonies, representing the occupied areas.",
+                "caseimg": "The Indies Must Be Free Work and Fight For It.png"
+            },
+            {
+                "casename": "Office of War Information flyer No.107",
+                "casetext": "The black areas are Taiwan invaded by Japanese Empire, representing the occupied areas.",
+                "caseimg": "Office of War Information flyer No_107.png"
+            }
+        ]
+    },
+    {
+        "name": "Color choice of white in map",
+        "image": "Color choice of white in map.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Cartographic Strategies",
+        "thirdclass": "Color Choice",
+        "sum": 6.0,
+        "description": "White color choice in the map could refer to cleaness and denote positive meaning, as Monmonier indicated.",
+        "case": [
+            {
+                "casename": "Occupied Palestine",
+                "casetext": "The Palestine's area is depicted as white, representing the cleaness of the land.",
+                "caseimg": "Occupied Palestine.png"
+            },
+            {
+                "casename": "War is the National Industry of Prussia",
+                "casetext": "The unoccupied areas are marked as white.",
+                "caseimg": "War is the National Industry of Prussia.png"
+            },
+            {
+                "casename": "All the countries of Europe / have defeated communism / FRANCE REMAINS THE ONLY ONE THREATENED",
+                "casetext": "The white land are the areas defeated communism, except France.",
+                "caseimg": "All the countries of Europe _ have defeated communism _ FRANCE REMAINS THE ONLY ONE THREATENED.png"
+            }
+        ]
+    },
+    {
+        "name": "Use grid as scientific symbol",
+        "image": "Use grid as scientific symbol.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Cartographic Strategies",
+        "thirdclass": "Scientific Symbol",
+        "sum": 37.0,
+        "description": "Grid is commonly used as a scientific discourse to reinforce the persuasive meaning.",
+        "case": [
+            {
+                "casename": "The British Empire Plunder History Map",
+                "casetext": "The map uses professional touch grids, representing a scientific persuasion.",
+                "caseimg": "The British Empire Plunder History Map.png"
+            },
+            {
+                "casename": "Pax Britannica",
+                "casetext": "The longitude and latitude are loosely shown on the globe, with severe distortion.",
+                "caseimg": "Pax Britannica.png"
+            },
+            {
+                "casename": "Anti-Zionist caricature",
+                "casetext": "Only the grid is shown in this map, demonstrating grid can be used to imply the existence of land.",
+                "caseimg": "Anti-Zionist caricature.png"
+            }
+        ]
+    },
+    {
+        "name": "Use legend as scientific symbol",
+        "image": "Use legend as scientific symbol.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Cartographic Strategies",
+        "thirdclass": "Scientific Symbol",
+        "sum": 33.0,
+        "description": "Legend in persuasive maps include the use of north arrow, capital marks, or the road mark. The choice of different legends not only gives more information but also entails different persuasive meanings.",
+        "case": [
+            {
+                "casename": "Falmouth borough octopus attempting to grasp the parishes of Falmouth and Budock",
+                "casetext": "Various legends are used to embody the scientific discourse. The legends include railways, roads, map scale, and north arrows.",
+                "caseimg": "Falmouth borough octopus attempting to grasp the parishes of Falmouth and Budock.png"
+            },
+            {
+                "casename": "War is the National Industry of Prussia",
+                "casetext": "The legend of different occupation status is used in the map.",
+                "caseimg": "War is the National Industry of Prussia.png"
+            },
+            {
+                "casename": "The British Octopus - England in the North Indian Ocean",
+                "casetext": "The legends of flags, river, and the occupied area is shown on the map.",
+                "caseimg": "The British Octopus - England in the North Indian Ocean.png"
+            }
+        ]
+    },
+    {
+        "name": "Use annotation as scientific symbol",
+        "image": "Use annotation as scientific symbol.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Cartographic Strategies",
+        "thirdclass": "Scientific Symbol",
+        "sum": 14.0,
+        "description": "Annotation includes marking different areas that resonates with the themes of the octopus maps. ",
+        "case": [
+            {
+                "casename": "The English Octopus",
+                "casetext": "The detailed information is directly annotated on relevant areas on the map.",
+                "caseimg": "The English Octopus.png"
+            },
+            {
+                "casename": "Landlordism Causes Unemployment",
+                "casetext": "The situation of the annexed areas is annotated on the map, with the form of collage.",
+                "caseimg": "Landlordism Causes Unemployment.png"
+            },
+            {
+                "casename": "The Prussian Octopus or \" devil fish \"",
+                "casetext": "The years of the occupation for different areas are annotated on the map.",
+                "caseimg": "The Prussian Octopus or \" devil fish \".png"
+            }
+        ]
+    },
+    {
+        "name": "Use statistics as scientific symbol",
+        "image": "Use statistics as scientific symbol.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Cartographic Strategies",
+        "thirdclass": "Scientific Symbol",
+        "sum": 6.0,
+        "description": "Using statistics reinforce the persuasive power about the theme for the octopus maps.",
+        "case": [
+            {
+                "casename": "Falmouth borough octopus attempting to grasp the parishes of Falmouth and Budock",
+                "casetext": "Draw upon statistics from national census of British to prove the argument.",
+                "caseimg": "Falmouth borough octopus attempting to grasp the parishes of Falmouth and Budock.png"
+            },
+            {
+                "casename": "International Penetration by I G. Farben: There are Many Others",
+                "casetext": "Provide a statistics table to prove how Germany annex the finance from the other countries.",
+                "caseimg": "International Penetration by I G_ Farben_ There are Many Others.png"
+            },
+            {
+                "casename": "In 42 short years 1917-1959 the Socialist/Communist Conspiracy has conquered 1/3 of the World",
+                "casetext": "The four small multiples provide specific statistics for the expansion of communism.",
+                "caseimg": "In 42 short years 1917-1959 the Socialist_Communist Conspiracy has conquered 1_3 of the World.png"
+            }
+        ]
+    },
+    {
+        "name": "Realistic depiction of the octopus",
+        "image": "Realistic depiction of the octopus.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Octopus Depiction Strategies",
+        "thirdclass": "Enargeia",
+        "sum": 72.0,
+        "description": "The realistic depiction of the octopus uses enargeia (vivid descriptions) strategy to elicit more emotion and enhance more spaces for the conceptual metaphors.",
+        "case": [
+            {
+                "casename": "Dessin de presse standard oil",
+                "casetext": "The octopus is vividly described with every details and lighting.",
+                "caseimg": "Dessin de presse standard oil.png"
+            },
+            {
+                "casename": "“Read La Bastille, the Illustrated Weekly Anti-Masonic Newspaper”",
+                "casetext": "The octopus face is vividly described with realistic touch.",
+                "caseimg": "“Read La Bastille, the Illustrated Weekly Anti-Masonic Newspaper”.png"
+            },
+            {
+                "casename": "Pax Britannica",
+                "casetext": "The face on the octopus is depicted in an excellent realistic skill.",
+                "caseimg": "Pax Britannica.png"
+            }
+        ]
+    },
+    {
+        "name": "Iconic depiction of octopus",
+        "image": "Iconic depiction of octopus.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Octopus Depiction Strategies",
+        "thirdclass": "Enargeia",
+        "sum": 10.0,
+        "description": "Iconic depiction of octopus simplifies the octopus image, but the ocotpus can still be recognized.",
+        "case": [
+            {
+                "casename": "Freedom of the Seas",
+                "casetext": "The octopus is not depicted as realistic, but the British ocotpus is still recognized with it's simplified shape.",
+                "caseimg": "Freedom of the Seas.png"
+            },
+            {
+                "casename": "A \"Suggestive Map\" of The British Empire",
+                "casetext": "The octopus is depicted as the silhouette. However, we can still recognize the octopus.",
+                "caseimg": "A \"Suggestive Map\" of The British Empire.png"
+            },
+            {
+                "casename": "The Octopus of Antwerp and Other Cold War Maps",
+                "casetext": "The octopus is abstract into the form of a pump.",
+                "caseimg": "The Octopus of Antwerp and Other Cold War Maps.png"
+            }
+        ]
+    },
+    {
+        "name": "Abstract implication of octopus",
+        "image": "Abstract implication of octopus.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Octopus Depiction Strategies",
+        "thirdclass": "Enargeia",
+        "sum": 2.0,
+        "description": "The abstract depicted octopuses are barely recognizable, implying the implicit structure of the octopus.",
+        "case": [
+            {
+                "casename": "In 42 short years 1917-1959 the Socialist/Communist Conspiracy has conquered 1/3 of the World",
+                "casetext": "An implicit ocotpus is depicted and indicated by the introduction.",
+                "caseimg": "In 42 short years 1917-1959 the Socialist_Communist Conspiracy has conquered 1_3 of the World.png"
+            },
+            {
+                "casename": "City map : Osaka.",
+                "casetext": "This topological map represnets a good abstraction.",
+                "caseimg": "City map _ Osaka_.png"
+            }
+        ]
+    },
+    {
+        "name": "Use facial expressions as personification",
+        "image": "Use facial expressions as personification.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Octopus Depiction Strategies",
+        "thirdclass": "Personification",
+        "sum": 50.0,
+        "description": "The octopuses are always personified. The facial expressions are always depicted in the octopus maps.",
+        "case": [
+            {
+                "casename": "Trump's ties : a serio-comic map by Kenneth Field in 2017.",
+                "casetext": "The facial expressions are depicted on Trump's face.",
+                "caseimg": "Trump_s ties _ a serio-comic map by Kenneth Field in 2017__1.png"
+            },
+            {
+                "casename": "John Bull and His Friends",
+                "casetext": "The Putin's facial expression is depicted as an evil and greedy face.",
+                "caseimg": "John Bull and His Friends_4.png"
+            },
+            {
+                "casename": "Churchill as an Octopus",
+                "casetext": "Churchill's facial expression is depicted as cruel.",
+                "caseimg": "Churchill as an Octopus_2.png"
+            }
+        ]
+    },
+    {
+        "name": "Use social identity as personification",
+        "image": "Use social identity as personification.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Octopus Depiction Strategies",
+        "thirdclass": "Personification",
+        "sum": 17.0,
+        "description": "The social identity is always depicted to represent the ocotpus. For example, the commanders are depicted to represent the whole country in some cases.",
+        "case": [
+            {
+                "casename": "Vote Down EDA",
+                "casetext": "The hat on the head is the social identity of EDA party.",
+                "caseimg": "Vote Down EDA_1.png"
+            },
+            {
+                "casename": "The German Octopus!",
+                "casetext": "The German helmet is used to represent the German octopus.",
+                "caseimg": "The German Octopus_2.png"
+            },
+            {
+                "casename": "Read La Bastille, the Illustrated Weekly Anti-Masonic Newspaper",
+                "casetext": "The symbol of free mansion is used to represent the identity of the human's face.",
+                "caseimg": "Read La Bastille, the Illustrated Weekly Anti-Masonic Newspaper_2.png"
+            }
+        ]
+    },
+    {
+        "name": "Vitalization as placement technique",
+        "image": "Vitalization as placement technique.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Octopus Depiction Strategies",
+        "thirdclass": "Placement",
+        "sum": 15.0,
+        "description": "\"Vitalization\" means how the octopus interacts with the map and creates spatial relationship. For example, the tentacle entangling the land makes the land seems like an entity instead of merely contour line.",
+        "case": [
+            {
+                "casename": "Fight against War and Racism",
+                "casetext": "Polish corridor and Memel is encircling with a spatial overlaped, this placement vitalizes the map as land.",
+                "caseimg": "Fight against War and Racism_3.png"
+            },
+            {
+                "casename": "The German Octopus!",
+                "casetext": "One tentacle held the map firmly, turning the map into a vivid land.",
+                "caseimg": "The German Octopus_3.png"
+            },
+            {
+                "casename": "Office of War Information flyer No.107",
+                "casetext": "The Japanese octopus entangle Taiwan firmly, making the Taiwan map a vivid land with emotional touch.",
+                "caseimg": "Office of War Information flyer No_107_1.png"
+            }
+        ]
+    },
+    {
+        "name": "Semi-fusion as placement technique",
+        "image": "Semi-fusion as placement technique.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Octopus Depiction Strategies",
+        "thirdclass": "Placement",
+        "sum": 5.0,
+        "description": "\"Semi-fusion\" means that the part of octopus can be also a part of the map at the same time. For example, the tentacle can serve as the borderline of a country.",
+        "case": [
+            {
+                "casename": "Serio-Comic War Map For The Year 1877. Revised Edition.",
+                "casetext": "While the other countries except Russia are depicted according to their borders, only Russia's border is not shown but replaced by the octopus.",
+                "caseimg": "Serio-Comic War Map For The Year 1877_ Revised Edition_.png"
+            },
+            {
+                "casename": "The Real Europe Without Make-up",
+                "casetext": "The border of Prussia is not shown but semi-fused with the octopus..",
+                "caseimg": "The Real Europe Without Make-up.png"
+            },
+            {
+                "casename": "The Indies Must Be Free! Work and Fight For It!",
+                "casetext": "Japan is not shown on the map, but only the octopus shows up.",
+                "caseimg": "The Indies Must Be Free Work and Fight For It.png"
+            }
+        ]
+    },
+    {
+        "name": "Superimposition as placement technique",
+        "image": "Superimposition as placement technique.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Octopus Depiction Strategies",
+        "thirdclass": "Placement",
+        "sum": 3.0,
+        "description": "Some maps are superimposed with the octopus.",
+        "case": [
+            {
+                "casename": "Against the invasion of Bolshevism",
+                "casetext": "The octopus is superimoposed on the map, with the two eyes of it fusing with St. Petersburg and Moscow.",
+                "caseimg": "Against the invasion of Bolshevism.png"
+            },
+            {
+                "casename": "Korea - Nasa Pagtankilik ng Nagkakaisang Bansa!",
+                "casetext": "The octopus is superimposed underneath the professional like map.",
+                "caseimg": "Korea - Nasa Pagtankilik ng Nagkakaisang Bansa.png"
+            },
+            {
+                "casename": "British Economic League anti-Communist pamphlet",
+                "casetext": "The ocotpus is superimposed over the map, sharing the red star with the head and the capital city of Britain.",
+                "caseimg": "British Economic League anti-Communist pamphlet.png"
+            }
+        ]
+    },
+    {
+        "name": "Full fusion as placement technique",
+        "image": "Full fusion as placement technique.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Octopus Depiction Strategies",
+        "thirdclass": "Placement",
+        "sum": 1.0,
+        "description": "In topological map, the whole octopus can be the map itself.",
+        "case": [
+            {
+                "casename": "City map : Osaka. ",
+                "casetext": "The topological map fuses the octopus and the roadmap, which has not been a convention that people can accept.",
+                "caseimg": "City map _ Osaka_ .png"
+            }
+        ]
+    },
+    {
+        "name": "Label as explanation technique",
+        "image": "Label as explanation technique.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Textual Strategies",
+        "thirdclass": "Explanation",
+        "sum": 29.0,
+        "description": "Textual labels are used in the octopus maps to explain the meaning. For example, the tentacles are commonly labled as the name of warfares or the ways of financial exploitation.",
+        "case": [
+            {
+                "casename": "The Real Europe Without Make-up",
+                "casetext": "The textual labels are tagged on all the tentacles, explaining the specific warfare.",
+                "caseimg": "The Real Europe Without Make-up_2.png"
+            },
+            {
+                "casename": "The octopus of Humanity's two hundred families",
+                "casetext": "The textual labels are tagged on all the tentacles, explaining the specific methods of financial exploitation..",
+                "caseimg": "The octopus of Humanity_s two hundred families_2.png"
+            },
+            {
+                "casename": "Vote Down EDA",
+                "casetext": "The textual labels are tagged on all the tentacles, explaining the specific methods of political control..",
+                "caseimg": "Vote Down EDA_2.png"
+            }
+        ]
+    },
+    {
+        "name": "Detailed description as explanation technique",
+        "image": "Detailed description as explanation technique.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Textual Strategies",
+        "thirdclass": "Explanation",
+        "sum": 18.0,
+        "description": "Detailed description is always to provide contextual information for the octopus maps.",
+        "case": [
+            {
+                "casename": "The Dollar Octopus",
+                "casetext": "The detailed description is used to explain the specific historical background.",
+                "caseimg": "The Dollar Octopus.png"
+            },
+            {
+                "casename": "Serio-comic War Map",
+                "casetext": "The detailed description of the war is placed at the periphery of the map.",
+                "caseimg": "Serio-comic War Map.png"
+            },
+            {
+                "casename": "Jewry über Alles",
+                "casetext": "The anti-semitism description is at the center of the illustration.",
+                "caseimg": "Jewry über Alles.png"
+            }
+        ]
+    },
+    {
+        "name": "Numeric description as explanation technique",
+        "image": "Numeric description as explanation technique.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Textual Strategies",
+        "thirdclass": "Explanation",
+        "sum": 6.0,
+        "description": "The numbers are always use to reinforce the persuasive power on certain areas.",
+        "case": [
+            {
+                "casename": "The English Octopus",
+                "casetext": "The numbers are shown on the maps, describing the exact number of the annexation.",
+                "caseimg": "The English Octopus_1.png"
+            },
+            {
+                "casename": "The Dollar Octopus",
+                "casetext": "The year is shown on the octopus' tentacles.",
+                "caseimg": "The Dollar Octopus_1.png"
+            },
+            {
+                "casename": "War is the National Industry of Prussia",
+                "casetext": "The years are shown on the occupied areas.",
+                "caseimg": "War is the National Industry of Prussia_1.png"
+            }
+        ]
+    },
+    {
+        "name": "Multi-linguistic technique",
+        "image": "Multi-linguistic technique.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Textual Strategies",
+        "thirdclass": "Language Choice",
+        "sum": 7.0,
+        "description": "To expand the persuasive effect, the multi-linguistic choice in a map can entail cultural meaning.",
+        "case": [
+            {
+                "casename": "A Humorous Diplomatic Atlas of Europe and Asia",
+                "casetext": "The English and Japanese are used at the same time, internationalizing the rhetoric.",
+                "caseimg": "A Humorous Diplomatic Atlas of Europe and Asia.png"
+            },
+            {
+                "casename": "Serio-Comic War Map For The Year 1877. Revised Edition.",
+                "casetext": "Both German and English are shown in the detailed description.",
+                "caseimg": "Serio-Comic War Map For The Year 1877_ Revised Edition_.png"
+            },
+            {
+                "casename": "Hands Off Africa’s Island!",
+                "casetext": "The map is published on social media with multi language of over 8 languages.",
+                "caseimg": "Hands Off Africa’s Island.png"
+            }
+        ]
+    },
+    {
+        "name": "Linguistic adaptation technique",
+        "image": "Linguistic adaptation technique.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Textual Strategies",
+        "thirdclass": "Language Choice",
+        "sum": 6.0,
+        "description": "Some maps are not circulated in the same area as the publication areas. In this case, the linguistic adaptation is used to target specific audiences.",
+        "case": [
+            {
+                "casename": "Korea - Nasa Pagtankilik ng Nagkakaisang Bansa!",
+                "casetext": "The map is produced in America, but uses Tangalo language to spread the message.",
+                "caseimg": "Korea - Nasa Pagtankilik ng Nagkakaisang Bansa.png"
+            },
+            {
+                "casename": "Office of War Information flyer No.107",
+                "casetext": "The map was produced in America, but was used in Taiwan during World War II.",
+                "caseimg": "Office of War Information flyer No_107.png"
+            }
+        ]
+    }
+]

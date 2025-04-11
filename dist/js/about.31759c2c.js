@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkoctopusmap"]=self["webpackChunkoctopusmap"]||[]).push([[594],{603:function(u,n,t){t.r(n),t.d(n,{default:function(){return p}});var a=t(56768);const s={class:"about"};function c(u,n){return(0,a.uX)(),(0,a.CE)("div",s,n[0]||(n[0]=[(0,a.Lk)("h1",null,"This is an about page",-1)]))}var e=t(71241);const o={},r=(0,e.A)(o,[["render",c]]);var p=r}}]);
+//# sourceMappingURL=about.31759c2c.js.map

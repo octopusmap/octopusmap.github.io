@@ -1,0 +1,72 @@
+[
+  {
+      "name": "Conceptual Metaphors",
+      "isOpen": true,
+      "subCategories": [{
+        "name": "Orientational Metaphor",
+        "selected": true,
+        "dimensions": [
+          {
+            "name": "The conflict is at the center",
+            "selected": true
+          },
+          {
+            "name": "The justice is at the periphery",
+            "selected": true
+          },
+          {
+            "name": "The oppressor is at the top",
+            "selected": true
+          },
+          {
+            "name": "The victim is at the periphery",
+            "selected": true
+          }
+        ]
+      },
+      {
+        "name": "Ontological Metaphor",
+        "selected": true,
+        "dimensions": [
+          {
+            "name": "The financial exploiter is the octopus",
+            "selected": true
+          },
+          {
+            "name": "The hostile ideology is the octopus",
+            "selected": true
+          },
+          {
+            "name": "The invader is the octopus",
+            "selected": true
+          },
+          {
+            "name": "The oppression is the sucker",
+            "selected": true
+          },
+          {
+            "name": "The successful resistance creates the wound on the tentacles",
+            "selected": true
+          },
+          {
+            "name": "The ways of oppression are the tentacles",
+            "selected": true
+          }
+        ]
+      },
+      {
+        "name": "Structural Metaphor",
+        "selected": true,
+        "dimensions": [
+          {
+            "name": "To eliminate an area is to encircle it",
+            "selected": true
+          },
+          {
+            "name": "To oppress is to entangle",
+            "selected": true
+          }
+        ]
+      }
+    ]    }
+  ]

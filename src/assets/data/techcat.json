@@ -1,0 +1,244 @@
+[
+    {
+        "name": "Conceptual Metaphor",
+        "isOpen": true,
+        "subCategories": [
+            {
+                "name": "Orientational Metaphor",
+                "selected": true,
+                "dimensions": [
+                    {
+                        "name": "The conflict is at the center",
+                        "selected": true
+                    },
+                    {
+                        "name": "The justice is at the periphery",
+                        "selected": true
+                    },
+                    {
+                        "name": "The oppressor is at the top",
+                        "selected": true
+                    },
+                    {
+                        "name": "The victim is at the periphery",
+                        "selected": true
+                    }
+                ]
+            },
+            {
+                "name": "Ontological Metaphor",
+                "selected": true,
+                "dimensions": [
+                    {
+                        "name": "The financial exploiter is the octopus",
+                        "selected": true
+                    },
+                    {
+                        "name": "The hostile ideology is the octopus",
+                        "selected": true
+                    },
+                    {
+                        "name": "The invader is the octopus",
+                        "selected": true
+                    },
+                    {
+                        "name": "The oppression is the sucker",
+                        "selected": true
+                    },
+                    {
+                        "name": "The successful resistance creates the wound on the tentacles",
+                        "selected": true
+                    },
+                    {
+                        "name": "The ways of oppression are the tentacles",
+                        "selected": true
+                    }
+                ]
+            },
+            {
+                "name": "Structural Metaphor",
+                "selected": true,
+                "dimensions": [
+                    {
+                        "name": "To eliminate an area is to encircle it",
+                        "selected": true
+                    },
+                    {
+                        "name": "To oppress is to entangle",
+                        "selected": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Rhetorical Strategies",
+        "isOpen": true,
+        "subCategories": [
+            {
+                "name": "Universal Strategies",
+                "selected": true,
+                "dimensions": [
+                    {
+                        "name": "Display the area",
+                        "selected": true
+                    },
+                    {
+                        "name": "Display the name",
+                        "selected": true
+                    },
+                    {
+                        "name": "Display the symbol",
+                        "selected": true
+                    },
+                    {
+                        "name": "Stylistic contrast",
+                        "selected": true
+                    },
+                    {
+                        "name": "Thematic contrast",
+                        "selected": true
+                    },
+                    {
+                        "name": "Use flag as metonymy",
+                        "selected": true
+                    },
+                    {
+                        "name": "Use human form as metonymy",
+                        "selected": true
+                    },
+                    {
+                        "name": "Use symbol as metonymy",
+                        "selected": true
+                    }
+                ]
+            },
+            {
+                "name": "Cartographic Strategies",
+                "selected": true,
+                "dimensions": [
+                    {
+                        "name": "2D map as map choice",
+                        "selected": true
+                    },
+                    {
+                        "name": "3D globe as map choice",
+                        "selected": true
+                    },
+                    {
+                        "name": "Color choice of black in map",
+                        "selected": true
+                    },
+                    {
+                        "name": "Color choice of red in map",
+                        "selected": true
+                    },
+                    {
+                        "name": "Color choice of white in map",
+                        "selected": true
+                    },
+                    {
+                        "name": "Distortion of angle",
+                        "selected": true
+                    },
+                    {
+                        "name": "Distortion of area size",
+                        "selected": true
+                    },
+                    {
+                        "name": "Distortion of direction",
+                        "selected": true
+                    },
+                    {
+                        "name": "Distortion of distance",
+                        "selected": true
+                    },
+                    {
+                        "name": "Use annotation as scientific symbol",
+                        "selected": true
+                    },
+                    {
+                        "name": "Use grid as scientific symbol",
+                        "selected": true
+                    },
+                    {
+                        "name": "Use legend as scientific symbol",
+                        "selected": true
+                    },
+                    {
+                        "name": "Use statistics as scientific symbol",
+                        "selected": true
+                    }
+                ]
+            },
+            {
+                "name": "Octopus Depiction Strategies",
+                "selected": true,
+                "dimensions": [
+                    {
+                        "name": "Abstract implication of octopus",
+                        "selected": true
+                    },
+                    {
+                        "name": "Full fusion as placement technique",
+                        "selected": true
+                    },
+                    {
+                        "name": "Iconic depiction of octopus",
+                        "selected": true
+                    },
+                    {
+                        "name": "Realistic depiction of the octopus",
+                        "selected": true
+                    },
+                    {
+                        "name": "Semi-fusion as placement technique",
+                        "selected": true
+                    },
+                    {
+                        "name": "Superimposition as placement technique",
+                        "selected": true
+                    },
+                    {
+                        "name": "Use facial expressions as personification",
+                        "selected": true
+                    },
+                    {
+                        "name": "Use social identity as personification",
+                        "selected": true
+                    },
+                    {
+                        "name": "Vitalization as placement technique",
+                        "selected": true
+                    }
+                ]
+            },
+            {
+                "name": "Textual Strategies",
+                "selected": true,
+                "dimensions": [
+                    {
+                        "name": "Detailed description as explanation technique",
+                        "selected": true
+                    },
+                    {
+                        "name": "Label as explanation technique",
+                        "selected": true
+                    },
+                    {
+                        "name": "Linguistic adaptation technique",
+                        "selected": true
+                    },
+                    {
+                        "name": "Multi-linguistic technique",
+                        "selected": true
+                    },
+                    {
+                        "name": "Numeric description as explanation technique",
+                        "selected": true
+                    }
+                ]
+            }
+        ]
+    }
+]
