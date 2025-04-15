@@ -38,9 +38,17 @@
       </div>
     </div>
     <button @click="resetGame" class="reset-btn">Reset</button>
-    <div v-if="selectedImages.length === 2" class="path-container">
+    <div class="path-container">
       <h2>Shortest Path</h2>
-      <div class="path-images">
+      <div class="path-length-selector">
+        <label>Select Path Length:</label>
+        <select v-model="selectedPathLength" @change="findShortestPath">
+          <option v-for="length in availablePathLengths" :key="length" :value="length">
+            {{ length }} nodes
+          </option>
+        </select>
+      </div>
+      <div v-if="selectedImages.length === 2"  class="path-images">
         <div v-for="(image, index) in shortestPath" :key="index" class="path-image">
           <div class="image-wrapper">
             <img 
@@ -75,7 +83,9 @@ export default {
       shortestPath: [],
       currentScroll: 0,
       fallbackImage: require('@/assets/images/cuteocto/1.jpg'),
-      shortestPaths: {} // 存储预计算的最短路径
+      shortestPaths: {}, // 存储预计算的最短路径
+      selectedPathLength: 3, // 默认选择长度为3的路径
+      availablePathLengths: [3, 4, 5] // 可用的路径长度选项
     }
   },
   created() {
@@ -84,21 +94,23 @@ export default {
   methods: {
     async loadShortestPaths() {
       try {
-        const shortestPathsData = require('@/assets/data/shortest_paths.json')
+        const shortestPathsData = require('@/assets/data/shortest_paths1.json')
         // 将数组转换为以 source-target 为键的映射
         this.shortestPaths = shortestPathsData.reduce((acc, pathObj) => {
           const key = `${pathObj.source}-${pathObj.target}`
-          acc[key] = pathObj.path
+          acc[key] = pathObj.paths // paths 现在是一个对象，键是路径长度
           return acc
         }, {})
         
         // 从最短路径中提取所有唯一的图像名称
         const allImages = new Set()
         shortestPathsData.forEach(pathObj => {
-          pathObj.path.forEach(image => {
-            if (image !== 'Next.png') { //排除 Next.png
-              allImages.add(image);
-            }
+          Object.values(pathObj.paths).forEach(path => {
+            path.forEach(image => {
+              if (image !== 'Next.png') { //排除 Next.png
+                allImages.add(image);
+              }
+            })
           })
         })
         this.images = Array.from(allImages)
@@ -148,12 +160,24 @@ export default {
       // 从预计算的结果中获取路径
       const pathKey = `${start}-${end}`
       if (this.shortestPaths[pathKey]) {
-        this.shortestPath = this.shortestPaths[pathKey]
+        // 直接获取指定长度的路径
+        const path = this.shortestPaths[pathKey][this.selectedPathLength.toString()]
+        if (path) {
+          this.shortestPath = path
+        } else {
+          // 如果没有找到指定长度的路径，使用默认的2节点路径
+          this.shortestPath = [start, end]
+        }
       } else {
         // 如果找不到预计算的路径，尝试反向查找
         const reversePathKey = `${end}-${start}`
         if (this.shortestPaths[reversePathKey]) {
-          this.shortestPath = [...this.shortestPaths[reversePathKey]].reverse()
+          const path = this.shortestPaths[reversePathKey][this.selectedPathLength.toString()]
+          if (path) {
+            this.shortestPath = [...path].reverse()
+          } else {
+            this.shortestPath = [start, end]
+          }
         } else {
           // 如果都找不到，使用默认的2节点路径
           this.shortestPath = [start, end]
@@ -459,5 +483,20 @@ h1::after {
 .highlight {
   color: #5c2e0a;
   font-style: italic;
+}
+
+.path-length-selector {
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.path-length-selector label {
+  margin-right: 0.5rem;
+}
+
+.path-length-selector select {
+  padding: 0.5rem;
+  border: 1px solid #d4c9b8;
+  border-radius: 4px;
 }
 </style> 
