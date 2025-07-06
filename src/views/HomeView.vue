@@ -6,7 +6,7 @@
     <div class="gallery-section">
       <div class="image-gallery">
         <div v-for="(image, index) in octopusImages" :key="index" class="gallery-item">
-          <img :src="image.src" :alt="image.alt" />
+          <img v-lazy="image.src" :alt="image.alt" />
           <!-- <div class="image-caption">{{ image.caption }}</div> -->
         </div>
       </div>

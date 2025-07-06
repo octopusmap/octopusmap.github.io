@@ -81,7 +81,7 @@
                  :key="vis.name" 
                  class="card">
               <div class="card-header" :style="{ backgroundColor: getCategoryColor(vis.conceptualMetaphor.secondclass[0]) }">
-                <h3 class="card-header-title">{{ vis.conceptualMetaphor.secondclass[0] }}</h3>
+                <h3 class="card-header-title"><img :src="processedSrc(vis.conceptualMetaphor.secondclass[0])" alt="" class="tech_icon">{{ vis.conceptualMetaphor.secondclass[0] }}</h3>
               </div>
               <div class="card-image">
                 <img v-if="vis.image" v-lazy="require(`@/assets/images/tech/${vis.cases[0].caseimg}`)" :alt="vis.name">
@@ -273,6 +273,12 @@ export default {
     }
   },
   computed: {
+    processedSrc() {
+      return (originalStr) => {
+        const processedStr = "L_" + originalStr.replace(/\s+/g, "_");
+        return require(`@/assets/images/icons/Conceptual_Metaphor/${processedStr}.svg`);
+      };
+    },
     filteredMetaVisualizations() {
       const selectedSubCategories = this.metaCategories.flatMap(category => 
         category.subCategories.filter(sub => sub.selected)
@@ -444,6 +450,11 @@ export default {
 </script>
 
 <style scoped>
+.tech_icon{
+  width:1rem;
+  height:1rem;
+  margin-right:1rem;
+}
 .visualization-view {
   display: flex;
   min-height: calc(100vh - 64px);
@@ -1250,7 +1261,10 @@ section {
   font-family: 'Playfair Display', serif;
   font-size: 1.1rem;
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
-  text-align: center;
+  /* text-align: center; */
+  display: flex;                /* 启用Flex布局 */
+  align-items: center; 
+  justify-content: center;
 }
 
 .section-header {

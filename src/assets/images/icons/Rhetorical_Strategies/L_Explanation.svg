@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        font-family: Lato-Black, Lato;
+        font-size: 8.03px;
+        font-weight: 800;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2-2" data-name="Layer 2">
+    <g>
+      <path class="cls-1" d="M48,4c2.21,0,4,1.79,4,4v40c0,2.21-1.79,4-4,4H8c-2.21,0-4-1.79-4-4V8c0-2.21,1.79-4,4-4h40M48,0H8C3.59,0,0,3.59,0,8v40c0,4.41,3.59,8,8,8h40c4.41,0,8-3.59,8-8V8c0-4.41-3.59-8-8-8h0Z"/>
+      <g>
+        <path class="cls-1" d="M45.5,17.54v25.11h-28.6v-25.11h28.6M45.5,15.54h-28.6c-1.1,0-2,.9-2,2v25.11c0,1.1.9,2,2,2h28.6c1.1,0,2-.9,2-2v-25.11c0-1.1-.9-2-2-2h0Z"/>
+        <path class="cls-1" d="M14.05,22.41v20.24h-5.37v-20.24h5.37M14.05,20.41h-5.37c-1.1,0-2,.9-2,2v20.24c0,1.1.9,2,2,2h5.37c1.1,0,2-.9,2-2v-20.24c0-1.1-.9-2-2-2h0Z"/>
+        <text class="cls-2" transform="translate(19.27 25.78)"><tspan x="0" y="0">OCT</tspan></text>
+        <line class="cls-3" x1="19.05" y1="29.49" x2="33.92" y2="29.49"/>
+        <line class="cls-3" x1="19.05" y1="33.03" x2="33.92" y2="33.03"/>
+        <line class="cls-3" x1="19.05" y1="36.57" x2="33.92" y2="36.57"/>
+        <rect class="cls-1" x="35.19" y="28.58" width="10.93" height="8.92"/>
+      </g>
+    </g>
+  </g>
+</svg>
