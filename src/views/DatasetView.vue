@@ -46,7 +46,7 @@
           <h2>{{ selectedDataset?.Name }}</h2>
           <div class="details-content">
             <img 
-            v-lazy="getImagePath(selectedDataset?.img)" 
+            v-lazy="getImagePath1(selectedDataset?.img)" 
               :alt="selectedDataset?.Name" 
               class="detail-image"
               @error="handleImageError"
@@ -101,6 +101,15 @@ export default {
       try {
         if (!imgName) return this.fallbackImage
         return require(`@/assets/images/data/${imgName}`)
+      } catch (error) {
+        console.error('Error loading image:', imgName, error)
+        return this.fallbackImage
+      }
+    },
+    getImagePath1(imgName) {
+      try {
+        if (!imgName) return this.fallbackImage
+        return require(`@/assets/images/databig/${imgName}`)
       } catch (error) {
         console.error('Error loading image:', imgName, error)
         return this.fallbackImage
