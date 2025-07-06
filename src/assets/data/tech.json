@@ -312,6 +312,32 @@
         ]
     },
     {
+        "name": "To cut the tentacle is to resistance",
+        "image": "To cut the tentacle is to resistance.png",
+        "firstclass": "Conceptual Metaphor",
+        "secondclass": "Structural Metaphor",
+        "thirdclass": "",
+        "sum": 5.0,
+        "description": "The action of cutting the tentacle indicate the resistance, turning the map into a visual storytelling that involves specific warfares.",
+        "case": [
+            {
+                "casename": "Allies Loosen Grip of Nazi Octopus",
+                "casetext": "The tentacle is cut by a soldier, where the location overlaps Waterloo in Soviet Russia",
+                "caseimg": "Allies Loosen Grip of Nazi Octopus.png"
+            },
+            {
+                "casename": "Korea - Nasa Pagtankilik ng Nagkakaisang Bansa!",
+                "casetext": "The tentacle of communism is cut by the knife denotating of UN.",
+                "caseimg": "Korea - Nasa Pagtankilikng Nagkakaisang Bansa.png"
+            },
+            {
+                "casename": "All the countries of Europe have defeated communism FRANCE REMAINS THE ONLY ONE THREATENED",
+                "casetext": "The communism is depicted as octopus, with its tentacle stretched to France. France's people cut the tentacle as an action of resistance.",
+                "caseimg": "Hands Off Africas Island.png"
+            }
+        ]
+    },
+    {
         "name": "Thematic contrast",
         "image": "Thematic contrast.png",
         "firstclass": "Rhetorical Strategies",
@@ -1035,6 +1061,31 @@
         ]
     },
     {
+        "name": "Substitution as placement technique",
+        "image": "Substitution.png",
+        "firstclass": "Rhetorical Strategies",
+        "secondclass": "Octopus Depiction Strategies",
+        "thirdclass": "Placement",
+        "sum": 5.0,
+        "description": "The substitution technique replaces the borderline with the octopus.",
+        "case": [
+            {
+                "casename": "The Real Europe Without Make-up",
+                "casetext": "The borderline of Russia is hidden while the human forms personification resembles the borderline on the Serio-Comic War Map For The Year 1877. The map maker conceals and replaces the territory with a dark, giant octopus.",
+                "caseimg": "The Real Europe Without Make-up_3.png"
+            },
+            {
+                "casename": "A Humorous Diplomatic Atlas of Europe and Asia",
+                "casetext": "Similar to Serio-Comic War Map For The Year 1877. Revised Edition, The borderlin of Russian is hidden compared to the other countries in this map.",
+                "caseimg": "A Humorous Diplomatic Atlas of Europe and Asia_S.png"
+            },{
+                "casename": "Slash the Red Tentacles Smothering Asia",
+                "casetext": "The map, slash the red tentacles smothering Asia, replace the borderline of USSR as the giant octopus, while the borderlines of the other countries in this map are clearly illustrated.",
+                "caseimg": "Slash the Red Tentacles Smothering Asia_S.png"
+            }
+        ]
+    },
+    {
         "name": "Superimposition as placement technique",
         "image": "Superimposition as placement technique.png",
         "firstclass": "Rhetorical Strategies",
@@ -1076,6 +1127,7 @@
             }
         ]
     },
+    
     {
         "name": "Label as explanation technique",
         "image": "Label as explanation technique.png",

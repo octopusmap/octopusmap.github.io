@@ -188,6 +188,9 @@
               {
                 "name": "Superimposition as placement technique",
                 "selected": true
+              },{
+                "name": "Substitution as placement technique",
+                "selected": true
               },
               {
                 "name": "Vitalization as placement technique",

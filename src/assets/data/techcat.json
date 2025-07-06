@@ -66,6 +66,10 @@
                     {
                         "name": "To oppress is to entangle",
                         "selected": true
+                    },
+                    {
+                        "name": "To cut the tentacle is to resistance",
+                        "selected": true
                     }
                 ]
             }
@@ -197,6 +201,9 @@
                     },
                     {
                         "name": "Superimposition as placement technique",
+                        "selected": true
+                    },{
+                        "name": "Substitution as placement technique",
                         "selected": true
                     },
                     {
