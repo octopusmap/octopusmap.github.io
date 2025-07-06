@@ -524,7 +524,7 @@
         "image": "3D globe as map choice.png",
         "firstclass": "Rhetorical Strategies",
         "secondclass": "Cartographic Strategies",
-        "thirdclass": "Map Choice",
+        "thirdclass": "Map Choices",
         "sum": 20.0,
         "description": "3D globes can create a sense of worldwide view, but could also associate with the display function and only show half of the hemisphere.",
         "case": [
@@ -550,7 +550,7 @@
         "image": "2D map as map choice.png",
         "firstclass": "Rhetorical Strategies",
         "secondclass": "Cartographic Strategies",
-        "thirdclass": "Map Choice",
+        "thirdclass": "Map Choices",
         "sum": 70.0,
         "description": "2D maps is a traditional choice of map making, always with distortion geographical information to some extent.",
         "case": [
@@ -680,7 +680,7 @@
         "image": "Color choice of red in map.png",
         "firstclass": "Rhetorical Strategies",
         "secondclass": "Cartographic Strategies",
-        "thirdclass": "Color Choice",
+        "thirdclass": "Color Choices",
         "sum": 7.0,
         "description": "Red color on the map denotes special meanings, entailing the sense of \"threat.\"",
         "case": [
@@ -706,7 +706,7 @@
         "image": "Color choice of black in map.png",
         "firstclass": "Rhetorical Strategies",
         "secondclass": "Cartographic Strategies",
-        "thirdclass": "Color Choice",
+        "thirdclass": "Color Choices",
         "sum": 7.0,
         "description": "Black color in the map can imply a lower hierarchy on the map, denoting mostly the fallen countries on the map.",
         "case": [
@@ -732,7 +732,7 @@
         "image": "Color choice of white in map.png",
         "firstclass": "Rhetorical Strategies",
         "secondclass": "Cartographic Strategies",
-        "thirdclass": "Color Choice",
+        "thirdclass": "Color Choices",
         "sum": 6.0,
         "description": "White color choice in the map could refer to cleaness and denote positive meaning, as Monmonier indicated.",
         "case": [

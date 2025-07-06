@@ -116,7 +116,7 @@
                  :key="vis.name" 
                  class="card">
                 <div class="card-header" :style="{ backgroundColor: getCategoryColor(vis.conceptualMetaphor.secondclass[0]) }">
-                <h3 class="card-header-title">{{ vis.conceptualMetaphor.thirdclass[0] }}</h3>
+                <h3 class="card-header-title"><img :src="processedSrc1(vis.conceptualMetaphor.thirdclass[0])" alt="" class="tech_icon">{{ vis.conceptualMetaphor.thirdclass[0] }}</h3>
               </div>
               <div class="card-image">
                 <img v-if="vis.image" v-lazy="require(`@/assets/images/tech/${vis.cases[0].caseimg}`)" :alt="vis.name">
@@ -277,6 +277,12 @@ export default {
       return (originalStr) => {
         const processedStr = "L_" + originalStr.replace(/\s+/g, "_");
         return require(`@/assets/images/icons/Conceptual_Metaphor/${processedStr}.svg`);
+      };
+    },
+    processedSrc1() {
+      return (originalStr) => {
+        const processedStr = "L_" + originalStr.replace(/\s+/g, "_");
+        return require(`@/assets/images/icons/Rhetorical_Strategies/${processedStr}.svg`);
       };
     },
     filteredMetaVisualizations() {

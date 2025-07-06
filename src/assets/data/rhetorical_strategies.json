@@ -60,7 +60,7 @@
         "isOpen": true,
         "subCategories": [
           {
-            "name": "Map Choice",
+            "name": "Map Choices",
             "selected": true,
             "dimensions": [
               {
@@ -96,7 +96,7 @@
             ]
           },
           {
-            "name": "Color Choice",
+            "name": "Color Choices",
             "selected": true,
             "dimensions": [
               {
